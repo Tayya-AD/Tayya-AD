@@ -63,12 +63,6 @@ Selain di depan layar terminal, saya juga aktif berkecimpung di balik panggung d
 ## 📈 Statistik GitHub
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub-Tayya--AD-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/OS-Debian_12-DC382D?style=for-the-badge&logo=debian&logoColor=white" alt="Debian">
-  <img src="https://img.shields.io/badge/Status-Active-22C55E?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status">
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tayya-AD&theme=tokyonight&hide_border=true&area=true&color=3b82f6&line=3b82f6" alt="Activity Graph" />
 </p>
 
