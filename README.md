@@ -64,7 +64,7 @@ Selain di depan layar terminal, saya juga aktif berkecimpung di balik panggung d
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Tayya-AD&theme=dark&hide_border=true&background=101010" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=Tayya-AD&theme=dark&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 
