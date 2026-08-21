@@ -63,14 +63,13 @@ Selain di depan layar terminal, saya juga aktif berkecimpung di balik panggung d
 ## 📈 Statistik GitHub
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Tayya-AD&theme=dark&hide_border=true" alt="GitHub Streak" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Tayya-AD&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tayya-AD&theme=tokyonight&hide_border=true&area=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tayya-AD&theme=tokyonight&hide_border=true&area=true&color=3b82f6&line=3b82f6" alt="Activity Graph" />
 </p>
+
 ---
 
 ## 🧠 Fun Facts
