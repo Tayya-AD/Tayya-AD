@@ -63,14 +63,10 @@ Selain di depan layar terminal, saya juga aktif berkecimpung di balik panggung d
 
 ## 📊 Statistik GitHub
 
-> ℹ️ Kartu stats & top-language dari `github-readme-stats.vercel.app` sementara dihapus karena instance publiknya sedang down. Lihat panduan deploy instance sendiri agar bisa ditambahkan kembali secara stabil.
+> ℹ️ Kartu stats, top-language, dan trophy dari layanan pihak ketiga sementara dihapus karena instance publiknya sedang down/dihentikan. Activity graph di bawah masih berfungsi normal.
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tayya-AD&theme=tokyonight&hide_border=true&area=true&color=3b82f6&line=3b82f6" alt="Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tayya-AD&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 ---
