@@ -9,6 +9,7 @@
   <a href="#-tech-stack--tools"><img src="https://img.shields.io/badge/Tech_Stack-10B981?style=flat-square&logo=stackshare&logoColor=white" alt="Tech Stack"></a>
   <a href="#-bidang-fokus"><img src="https://img.shields.io/badge/Fokus_Utama-8B5CF6?style=flat-square&logo=target&logoColor=white" alt="Fokus"></a>
   <a href="#-dunia-audio--sound-engineering"><img src="https://img.shields.io/badge/Audio_Hobby-F59E0B?style=flat-square&logo=soundcharts&logoColor=white" alt="Audio"></a>
+  <a href="#-statistik-github"><img src="https://img.shields.io/badge/Statistik-06B6D4?style=flat-square&logo=github&logoColor=white" alt="Statistik"></a>
   <a href="#-terhubung-dengan-saya"><img src="https://img.shields.io/badge/Let's_Connect-EC4899?style=flat-square&logo=connectcombined&logoColor=white" alt="Connect"></a>
 </p>
 
@@ -60,10 +61,23 @@ Selain di depan layar terminal, saya juga aktif berkecimpung di balik panggung d
 
 ---
 
-## 📈 Statistik GitHub
+## 📊 Statistik GitHub
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Tayya-AD&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tayya-AD&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tayya-AD&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tayya-AD&theme=tokyonight&hide_border=true&area=true&color=3b82f6&line=3b82f6" alt="Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Tayya-AD&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 ---
