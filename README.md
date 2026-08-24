@@ -63,14 +63,7 @@ Selain di depan layar terminal, saya juga aktif berkecimpung di balik panggung d
 
 ## 📊 Statistik GitHub
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Tayya-AD&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tayya-AD&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tayya-AD&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+> ℹ️ Kartu stats & top-language dari `github-readme-stats.vercel.app` sementara dihapus karena instance publiknya sedang down. Lihat panduan deploy instance sendiri agar bisa ditambahkan kembali secara stabil.
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tayya-AD&theme=tokyonight&hide_border=true&area=true&color=3b82f6&line=3b82f6" alt="Activity Graph" />
