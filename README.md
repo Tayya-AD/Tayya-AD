@@ -34,7 +34,7 @@ Current Goal: Mastering Containerization & Cloud
 ## 🧰 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=debian,linux,docker,nginx,nodejs,githubactions,nextjs,laravel,flutter,dart,python,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=debian,linux,docker,nginx,nodejs,nextjs,laravel,flutter,dart,python,php,git,vscode" />
 </p>
 
 <details>
