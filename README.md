@@ -1,9 +1,4 @@
-Masalah:
-1. Markdown terbungkus code block (```markdown ... ```) jadi teks mentah di awal & akhir.
-2. SVG Vercel / Komarev kena blokir / URL error di preview.
-3. Code block dobel di terminal mode berantakan.
 
-Salin teks murni di bawah ini **tanpa tanda petik tiga (```) pembungkus**:
 
 # 👋 Halo, saya Athaya Dzaky! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
