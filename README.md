@@ -83,13 +83,25 @@ Current Goal: Mastering Containerization & Cloud
 
 ---
 
-## ⚡ Quick Ping
+
+  <a href="#-open-ports--handshake"><img src="https://img.shields.io/badge/Port_Status-EC4899?style=for-the-badge&logo=openaccess&logoColor=white" alt="Connect"></a>
+
+## 🔌 Open Ports & TCP Handshake
 
 ```bash
-athaya@debian:~$ ping -c 1 athaya.contact
+athaya@debian:~$ sudo netstat -tulnp | grep -E "ESTABLISHED|LISTEN"
 ```
 
+| Proto | Port | Service / Target | Status | Handshake Link |
+| :---: | :---: | :--- | :---: | :--- |
+| `tcp` | `443` | **Direct Inbox** | `ESTABLISHED` | [Send Packet via Email](mailto:athayadzaky80@gmail.com) |
+| `tcp` | `8080` | **Social Stream** | `LISTEN` | [Connect via Instagram](https://www.instagram.com/a_dzaky145) |
+| `tcp` | `22` | **Professional Key** | `SYN_SENT` | [Exchange via LinkedIn](https://linkedin.com/in/USERNAME_ANDA) |
+
 <p align="center">
-  <a href="gmailto:athayadzaky80@gmail.com"><img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://www.instagram.com/a_dzaky145"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="mailto:athayadzaky80@gmail.com"><img src="https://img.shields.io/badge/MAIL_ACK-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.instagram.com/a_dzaky145"><img src="https://img.shields.io/badge/IG_SESSION-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="IG" /></a>
+  <a href="https://github.com/Tayya-AD"><img src="https://img.shields.io/badge/GIT_PUSH-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
+
+
