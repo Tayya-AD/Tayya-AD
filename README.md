@@ -76,6 +76,8 @@ Current Goal: Mastering Containerization & Cloud
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tayya-AD&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" />
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tayya-AD&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 </p>
 
