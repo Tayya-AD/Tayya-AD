@@ -1,89 +1,120 @@
-<h1 align="center">👋 Halo, saya Athaya Dzaky! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+```markdown
+<h1 align="center">
+  👋 Halo, saya Athaya Dzaky!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Mahasiswa+Teknik+Informatika;Pengguna+Windows;TTertarik+pada+Jaringan+Komputer+%26+DevOps;Senang+Ngulik+dan+Eksplorasi+Hal+Baru" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=550&lines=Mahasiswa+Teknik+Informatika;Linux+%26+Debian+Enthusiast;Networking+%26+DevOps+Explorer;Audio+Engineer+di+Balik+Layar;Troubleshoot+dulu%2C+panik+belakangan!" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="#-tentang-saya"><img src="https://img.shields.io/badge/Tentang_Saya-3B82F6?style=flat-square&logo=about-me&logoColor=white" alt="About Me"></a>
-  <a href="#-tech-stack--tools"><img src="https://img.shields.io/badge/Tech_Stack-10B981?style=flat-square&logo=stackshare&logoColor=white" alt="Tech Stack"></a>
-  <a href="#-bidang-fokus"><img src="https://img.shields.io/badge/Fokus_Utama-8B5CF6?style=flat-square&logo=target&logoColor=white" alt="Fokus"></a>
-  <a href="#-dunia-audio--sound-engineering"><img src="https://img.shields.io/badge/Audio_Hobby-F59E0B?style=flat-square&logo=soundcharts&logoColor=white" alt="Audio"></a>
-  <a href="#-statistik-github"><img src="https://img.shields.io/badge/Statistik-06B6D4?style=flat-square&logo=github&logoColor=white" alt="Statistik"></a>
-  <a href="#-terhubung-dengan-saya"><img src="https://img.shields.io/badge/Let's_Connect-EC4899?style=flat-square&logo=connectcombined&logoColor=white" alt="Connect"></a>
+  <a href="#-terminal-mode"><img src="https://img.shields.io/badge/Terminal_Bio-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bio"></a>
+  <a href="#-tech-stack--tools"><img src="https://img.shields.io/badge/Stack-10B981?style=for-the-badge&logo=stackshare&logoColor=white" alt="Stack"></a>
+  <a href="#-lab-audio--networking"><img src="https://img.shields.io/badge/Lab_Audio-F59E0B?style=for-the-badge&logo=soundcharts&logoColor=white" alt="Audio"></a>
+  <a href="#-kontak"><img src="https://img.shields.io/badge/Ping_Me-EC4899?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Ping"></a>
 </p>
 
 ---
 
-## 🚀 Tentang Saya
+## 📟 Terminal Mode
 
-<details>
-<summary><b>🔍 Klik untuk membaca sekilas tentang saya</b></summary>
-<br>
+```bash
+athaya@debian:~$ fastfetch
+```
 
-* 🧑‍💻 Mahasiswa **Teknik Informatika** yang mendalami dunia **Jaringan Komputer**, **Sistem Operasi Linux (Debian 12)**, dan pengembangan aplikasi mobile dengan **Flutter**.
-* 📡 Menikmati konfigurasi server, menyusun topologi jaringan yang handal, serta memperkuat sistem keamanan informasi.
-* 🛠️ Aktif mengeksplorasi ranah **DevOps**, **Networking Tools**, dan perancangan antarmuka yang *user-friendly*.
-</details>
+<table>
+<tr>
+<td>
+
+```yaml
+OS: Debian 12 (Bookworm) x86_64
+Host: Custom Rig / ThinkPad
+Kernel: Linux 6.1.0-amd64
+Uptime: 24/7 (selama kopi ada)
+Shell: bash 5.2.15
+Focus: Network Architecture & DevOps
+Side-Quest: Live Sound & Studio Engineering
+Current Goal: Mastering Containerization & Cloud
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🧰 Tech Stack & Tools
 
-Berikut adalah perangkat keras, OS, dan teknologi yang menjadi senjata utama saya sehari-hari:
+<p align="center">
+  <!-- OS & Shell -->
+  <a href="https://debian.org"><img src="https://skillicons.dev/icons?i=debian,bash,linux" alt="OS" /></a>
+  <!-- Networking & Cloud -->
+  <a href="#"><img src="https://skillicons.dev/icons?i=docker,nginx,githubactions" alt="Infra" /></a>
+  <!-- Dev -->
+  <a href="#"><img src="https://skillicons.dev/icons?i=flutter,dart,python,git" alt="Dev" /></a>
+  <!-- Tools -->
+  <a href="#"><img src="https://skillicons.dev/icons?i=vscode,postman,figma" alt="Tools" /></a>
+</p>
 
-| Kategori | Teknologi & Tools |
-| :--- | :--- |
-| **Operating System** | ![Debian](https://img.shields.io/badge/Debian-DC382D?style=for-the-badge&logo=debian&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) |
-| **Networking & Security** | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) ![Cisco/GNS3](https://img.shields.io/badge/GNS3-233876?style=for-the-badge&logo=cisco&logoColor=white) |
-| **Development** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
-| **Editor & Tools** | ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+<details>
+<summary><b>🛠️ Detail Tools & Software Spesifik</b></summary>
+<br>
 
----
+| Domain | Toolkit | Status |
+| :--- | :--- | :--- |
+| **Network & Security** | Wireshark, GNS3, Cisco Packet Tracer, Nmap | 🟢 Active Lab |
+| **Audio Workstation** | Studio One 6, FL Studio, Digital Mixers | 🎚️ Active Production |
+| **System Admin** | DNS (Bind9), DHCP, Samba, Nginx Reverse Proxy | 🟢 Deployed |
 
-## 📡 Bidang Fokus
-
-* 🔧 **Administrasi Server:** Konfigurasi layanan server Debian 12 (DNS, DHCP, Samba, Nginx, dll).
-* 🔐 **Networking & Keamanan:** Troubleshooting jaringan, analisis paket data, dan simulasi topologi.
-* 🖥️ **Front-End & Mobile:** Membangun aplikasi yang interaktif menggunakan Flutter.
-* ☁️ **DevOps Basics:** Penerapan containerization dan dasar-dasar otomatisasi.
-
----
-
-## 🎧 Dunia Audio & Sound Engineering
-
-> *"Suara yang jernih dan tertata adalah seni yang setara dengan baris kode yang sempurna."*
-
-Selain di depan layar terminal, saya juga aktif berkecimpung di balik panggung dan *audio workstation*:
-* 🎚️ **Sound System Setup:** Mengatur kalibrasi dan keseimbangan perangkat audio untuk berbagai skala acara.
-* 🎛️ **Audio Mixing & Editing:** Menggunakan **Studio One 6** dan **FL Studio** untuk proses mixing lagu maupun tata suara.
-* 🎤 **Live Sound:** Mengelola manajemen audio langsung secara *real-time*.
+</details>
 
 ---
 
-## 📊 Statistik GitHub
+## 🎛️ Lab Audio & Sound Engineering
 
-> ℹ️ Kartu stats, top-language, dan trophy dari layanan pihak ketiga sementara dihapus karena instance publiknya sedang down/dihentikan. Activity graph di bawah masih berfungsi normal.
+> *"Di terminal olah paket, di mixer olah frekuensi."*
+
+```
+[ Input: Mic/Line ] ──> [ Mixer / DAW ] ──> [ EQ / Dynamics ] ──> [ Front of House ]
+                                │
+                        [ Studio One 6 ]
+```
+
+<details open>
+<summary><b>🎧 Spesialisasi Audio</b></summary>
+<br>
+
+* 🎚️ **Live Sound Engineering:** Setup gain staging, kalibrasi sistem akustik ruangan, live mixing.
+* 🎛️ **DAW Production:** Mixing multitrack, dynamic EQ, balancing via **Studio One 6** & **FL Studio**.
+* 🎤 **Audio Routing:** Manajemen patchbay & audio routing panggung tanpa latency.
+</details>
+
+---
+
+## 📊 Aktivitas GitHub
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tayya-AD&theme=tokyonight&hide_border=true&area=true&color=3b82f6&line=3b82f6" alt="Activity Graph" />
+  <a href="https://github.com/Tayya-AD">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tayya-AD&theme=tokyonight&hide_border=true&area=true&color=3b82f6&line=3b82f6" width="100%" alt="Activity Graph" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Tayya-AD&label=Profile+Views&color=3b82f6&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
 
-## 🧠 Fun Facts
+## ⚡ Quick Ping
 
-* 🐧 Debian 12 tidak pernah absen jadi andalan untuk segala eksperimen sistem.
-* 📶 Hobi simulasi jaringan rumit di GNS3 demi memuaskan rasa penasaran.
-* 🎵 *Coding session* wajib ditemani alunan musik *lo-fi*.
-* 💡 **Motto:** *"Troubleshoot dulu, panik belakangan!"*
-
----
-
-## 🔗 Terhubung dengan Saya
+```bash
+athaya@debian:~$ ping -c 1 athaya.contact
+```
 
 <p align="center">
-  <a href="https://linkedin.com/in/USERNAME_ANDA"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:athayadzaky80@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://www.instagram.com/a_dzaky145"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="mailto:athayadzaky80@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
+```
+
